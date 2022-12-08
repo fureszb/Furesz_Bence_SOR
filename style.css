@@ -37,6 +37,8 @@ main{
     "f f";
     width: 80%;
     margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
     max-width: 1000px;
     background-color: #333;
     box-shadow: -1px -1px 18px 4px grey;
